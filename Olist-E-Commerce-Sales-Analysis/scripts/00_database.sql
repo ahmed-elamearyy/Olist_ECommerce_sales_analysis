@@ -1,7 +1,7 @@
 /*
 ==============================================================================
 Project      : Olist E-Commerce Sales Analysis
-Author       : Kareem Shaltout
+Author       : Ahmed Elameary
 Database     : OlistECommerceDB
 SQL Server   : Microsoft SQL Server 2022
 
